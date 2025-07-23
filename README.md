@@ -1,10 +1,10 @@
 # Hi there, I'm Jeffrey 👋
 
-<!-- ## 👩‍💻 About Me:
+## 👩‍💻 About Me:
 
 I'm a **Junior Cloud Engineer** passionate about designing, building, and scaling cloud-native solutions. My journey is driven by curiosity and a love for learning, especially when it comes to new programming languages and hands-on experiences. I thrive on exploring new technologies and applying them in practical, real-world scenarios. Whether it's mastering the latest cloud tools or experimenting with fresh programming languages, continuous learning is my superpower!
 
-🔭 I’m currently working on improving my Python skills<br>🤝 I’m looking for help with projects to help improve my full stack development skills<br>🌱 I’m currently learning more about full stack development<br>💬 Ask me about<br>⚡ Fun fact: <br>I like playing Call Of Duty and watching Anime -->
+🔭 I’m currently working on improving my Python skills<br>🤝 I’m looking for help with projects to help improve my full stack development skills<br>🌱 I’m currently learning more about full stack development<br>💬 Ask me about<br>⚡ Fun fact: <br>I like playing Call Of Duty and watching Anime.
 
 ## 🌟 Featured Project
 - [Eks-Terraform-Setup](https://github.com/Grace240/Eks-Terraform-Setup)  
