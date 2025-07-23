@@ -1,6 +1,11 @@
 # Hi there, I'm Jeffrey 👋
 
-I'm a **Cloud Engineer** passionate about designing, building, and scaling cloud-native solutions. My journey is driven by curiosity and a love for learning, especially when it comes to new programming languages and hands-on experiences.
+<!--
+## 👩‍💻 About Me:
+🔭 I’m currently working on improving my Python skills<br>🤝 I’m looking for help with projects to help improve my full stack development skills<br>🌱 I’m currently learning more about full stack development<br>💬 Ask me about<br>⚡ Fun fact: <br>I like playing Call Of Duty and watching Anime
+
+I'm a **Junior Cloud Engineer** passionate about designing, building, and scaling cloud-native solutions. My journey is driven by curiosity and a love for learning, especially when it comes to new programming languages and hands-on experiences.
+-->
 
 ## 🚀 Skills & Expertise
 <div align="center">
@@ -50,7 +55,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+
 
 <!--
 **Milua25/Milua25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,7 +71,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-🔭 I’m currently working on improving my Python skills<br>🤝 I’m looking for help with projects to help improve my full stack development skills<br>🌱 I’m currently learning more about full stack development<br>💬 Ask me about<br>⚡ Fun fact: <br>I like playing Call Of Duty and watching Anime 
+ 
 
 
 ## 🌐 Socials:
